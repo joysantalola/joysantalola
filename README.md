@@ -5,7 +5,7 @@
 
 ## 👨‍💻 Sobre mí
 
-- 🎓 Estudiante de 1º de ASIX (Administración de Sistemas Informáticos en Red)
+- 🎓 Estudiante de 2º de ASIX (Administración de Sistemas Informáticos en Red)
 - 🛠️ Conocimientos en **SQL**, **Python**, **HTML**, **CSS** y **JSON**
 - 🏨 Actualmente trabajando en un proyecto para la gestión de un hotel
 - 🎮 Apasionado de los videojuegos
