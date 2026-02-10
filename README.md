@@ -7,7 +7,7 @@
 - 🎓 Estudiante de 2º de ASIX (Administración de Sistemas Informáticos en Red)
 - 🛠️ Conocimientos en **SQL**, **Python**, **HTML**, **CSS**, **JSON**, **Ansible**, **Puppet**, **Docker** y **Virtualización**
 - 🎮 Apasionado de los videojuegos y la tecnología
-- 🌐 [Portafolio Personal](https://oleguesteo.es)
+- 🌐 [Portafolio Personal](https://olegueresteo.es)
 
 ## 🚀 Proyectos destacados
 
