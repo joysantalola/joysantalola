@@ -12,10 +12,8 @@
 
 Soy un apasionado de la tecnología y los sistemas, formado en **Administración de Sistemas Informáticos en Red (ASIR)** en el Institut Sa Palomera. Mi enfoque principal es la **administración de sistemas**, el despliegue de infraestructuras mediante **Docker** y la integración de **Inteligencia Artificial** en entornos técnicos.
 
-- 🎓 Graduado / Estudiante de **ASIR**.
-- �️ Experiencia previa como **Técnico de Sistemas** (Prácticas en Serhs Food).
+- 🎓 Estudiante de **ASIR**.
 - 📍 Residente en Palafolls, Barcelona.
-- 🚀 Siempre explorando nuevas herramientas de automatización, seguridad y gestión de datos.
 
 ---
 
