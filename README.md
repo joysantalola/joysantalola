@@ -48,6 +48,7 @@ Soy un apasionado de la tecnología y los sistemas, formado en **Administración
 2. **[filosofiavinland.com](https://filosofiavinland.com/)**: Web personal sobre la filosofía de Vinland Saga, gestionada mediante dominio propio en Nominalia.
 3. **[Radio Oleguer](https://github.com/joysantalola/radio-oleguer)**: Servidor de radio por internet orquestado con **Docker**, **Icecast** y **FFmpeg**.
 4. **[Django CRUD Animes](https://github.com/joysantalola/Framework-Django)**: Aplicación web de gestión completa (CRUD) utilizando el framework Django.
+5. **[Chatbot Thorfinn](https://github.com/joysantalola/chatbot-thorfinn/tree/main)**: Chatbot IA con llm llama3, backend python y web gradio.
 
 ---
 
