@@ -61,11 +61,3 @@ Soy un apasionado de la tecnología y los sistemas, formado en **Administración
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=joysantalola&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats">
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joysantalola&layout=compact&theme=tokyonight&hide=css,html" alt="Top Langs">
-</p>
-
----
