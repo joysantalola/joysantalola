@@ -69,5 +69,3 @@ Soy un apasionado de la tecnología y los sistemas, formado en **Administración
 </p>
 
 ---
-
-¡Gracias por visitar mi perfil! 😊
